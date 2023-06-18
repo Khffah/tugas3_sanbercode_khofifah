@@ -1,0 +1,17 @@
+{
+  "name": "belajarjs",
+  "version": "1.0.0",
+  "description": "Sanbercode 45 - Belajar js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node print.js",
+    "start:tugas3no1": "node tugas3no1.js",
+    "start:tugas3no2": "node tugas3no2.js"
+  },
+  "author": "khofifah zakiyah",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
