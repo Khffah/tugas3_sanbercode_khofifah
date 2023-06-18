@@ -4,11 +4,11 @@ Welcome and happy trying :)
 
 ## task no.1 
 this is a Square Root Program: contains a JavaScript program that calculates the square root of a number.
-Description
+# Description
 The program calculates the square root of a number (x) with the following conditions:
 - If the user input is a negative number, an error message "Tidak bisa input bilangan negatif" (Cannot input negative numbers) will be displayed.
 - If the user input is an odd number, an error message "Tidak bisa input bilangan ganjil" (Cannot input odd numbers) will be displayed.
-Usage
+# Usage
 1. Make sure you have Node.js installed on your system.
 2. Clone this repository to your local machine: https://github.com/Khffah/tugas3_sanbercode_khofifah
 3. Navigate to the cloned repository: cd tugas3_sanbercode_khofifah
@@ -19,9 +19,9 @@ Usage
 ## task no.2 
 this is a Quantity Sum Program: ontains a JavaScript program that calculates the sum of quantities for a specific product.
 
-Description
+# Description
 The program retrieves a response from an API, which contains information about products stored in different storageIds. It then calculates the total quantity for a specific product by summing the quantities from all the storageIds associated with that product.
-Usage
+# Usage
 1. Make sure you have Node.js installed on your system.
 2. Clone this repository to your local machine: https://github.com/Khffah/tugas3_sanbercode_khofifah
 3. Navigate to the cloned repository: cd tugas3_sanbercode_khofifah
